@@ -26,10 +26,4 @@ The following list contains used control keys:
 * *q*      - quit the game
 * *p*      - pause the game
 
-## Authors
 
-* **Pavel Benáček** - *coding of the game*
-
-## License
-
-This project is licensed under the GNU GPL License - see the [LICENSE.md](LICENSE.md) file for details
